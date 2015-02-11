@@ -44,7 +44,7 @@ Look up the `enumerate` method. Use it in place of the standard for loop you use
 This method should accept an array of planeteer calls, like this:
 
 ```swift
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+planeteerCalls = ["earth", "wind", "fire", "water", "heart"]
 ```
 
 It should then capitalize each element and add an exclamation point at the end. The return value of this method should be an array, in this example:
@@ -72,4 +72,4 @@ There is a global method called `find` that you should use, instead of the more 
 
 ##Hints
 
-(Here's a site that walks through a ton of global functions)[http://practicalswift.com/2014/06/14/the-swift-standard-library-list-of-built-in-functions/], for those that aren't listed in Apple's array documentation: 
+[Here's a site that walks through a ton of global functions](http://practicalswift.com/2014/06/14/the-swift-standard-library-list-of-built-in-functions/), for those that aren't listed in Apple's array documentation.
