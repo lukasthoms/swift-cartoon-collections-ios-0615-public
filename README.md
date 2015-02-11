@@ -67,3 +67,7 @@ Once the test for this method is passing, move on to the last method.
 ![dancing-mice](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cartoon-collections/cheese.jpg)
 
 There is a global method called `find` that you should use, instead of the more verbose for loop!
+
+##Hints
+
+(Here's a site that walks through a ton of global functions)[http://practicalswift.com/2014/06/14/the-swift-standard-library-list-of-built-in-functions/], for those that aren't listed in Apple's array documentation: 
