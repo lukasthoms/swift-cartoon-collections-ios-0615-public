@@ -9,6 +9,8 @@ You're going to get familiar with iterating through arrays in a more swifty way.
 
 ## Instructions
 
+Nothing to clone here! Just use the instructions and build your own file from scratch. No tests on this one.
+
 There are four methods to complete in this lab:
 
 1. Dwarf Roll Call
